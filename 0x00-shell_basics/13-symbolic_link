@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls 2tire b huitls2tire b huit
+ln -s /bin/ls __ls__
